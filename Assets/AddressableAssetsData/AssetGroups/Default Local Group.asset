@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1fea85bf3f45f4de186ad1aff0badd29
+  m_SerializeEntries:
+  - m_GUID: 42803095297dc46a6b3aad9296fff26c
+    m_Address: UI/Prefabs/MenuPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2608835133628765182, guid: 42803095297dc46a6b3aad9296fff26c, type: 3}
+    m_TargetAsset: {fileID: 2608835133628765182, guid: 42803095297dc46a6b3aad9296fff26c, type: 3}
+  - m_GUID: f005ebd0046e64ed1b47e83b7eca9331
+    m_Address: UI/Prefabs/PausePanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1af81908f07db412f99d33ec54a2fff8
+    m_Address: UI/Prefabs/GamePanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9c3e57b0bbc5e4cd1864007300cb6b40, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aec08ae7107f04ef4ba3cde4b90b604d, type: 2}
+    - {fileID: 11400000, guid: ec2a1bcc710ef479e860fdc054bb5265, type: 2}
